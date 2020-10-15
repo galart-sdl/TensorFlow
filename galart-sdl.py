@@ -1,0 +1,2 @@
+#exercise
+print ("exercise outcome")
